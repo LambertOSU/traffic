@@ -4,4 +4,4 @@ This repository contains various codes for analyzing vehicle-for-hire data downl
 
 #### List of files:
 
-- **Exploratory_Analysis.ipynb** - Initial analysis of timestamped GPS data.  
+- **exploratory_analysis.ipynb** - The notebok utilizes pandas, seaborn, basemap, mplleaflet, and sci-kit learn to identify hot spots for app-based vehicle for hire pickups.  
