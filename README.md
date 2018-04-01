@@ -4,4 +4,4 @@ This repository contains various codes for analyzing vehicle-for-hire data downl
 
 #### List of files:
 
-- **exploratory_analysis.ipynb** - The notebok utilizes pandas, seaborn, basemap, mplleaflet, and sci-kit learn to identify hot spots for app-based vehicle for hire pickups.  
+- **exploratory_analysis.ipynb** - The notebook utilizes pandas, seaborn, basemap, mplleaflet, and sci-kit learn to identify hot spots for app-based vehicle for hire pickups.  
